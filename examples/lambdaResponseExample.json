@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "response": {
+    "outputSpeech": {
+      "ssml": "<speak> You can buy jeans in the following stores: <break time=\"500ms\"/> Hugo BOSS - Alexanderplatz 9,  <break time=\"1000ms\"/> COS - Leipziger Pl. 12,  <break time=\"1000ms\"/> Lee - Alte Schönhauser Str. 38</speak>",
+      "type": "SSML"
+    },
+    "shouldEndSession": false,
+    "reprompt": {
+      "outputSpeech": {
+        "text": null,
+        "type": "PlainText"
+      }
+    },
+    "card": {
+      "content": "SessionSpeechlet - <speak> You can buy jeans in the following stores: <break time=\"500ms\"/> Hugo BOSS - Alexanderplatz 9,  <break time=\"1000ms\"/> COS - Leipziger Pl. 12,  <break time=\"1000ms\"/> Lee - Alte Schönhauser Str. 38</speak>",
+      "type": "Simple",
+      "title": "SessionSpeechlet - WhereToBuyIntent"
+    }
+  },
+  "sessionAttributes": {
+    "lastIntent": "WhereToBuyIntent"
+  }
+}
