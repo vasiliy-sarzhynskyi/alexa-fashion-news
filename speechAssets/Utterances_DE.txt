@@ -1,0 +1,24 @@
+WhatsNewIntent Was ist neu auf fashion
+WhatsNewIntent was neu ist auf fashion
+
+FashionNewsIntent Sag mir mal die Mode Nachrichten
+FashionNewsIntent Sag mir Mode Nachrichten
+FashionNewsIntent Sag mir fashion news
+FashionNewsIntent Erzähle fashion News
+FashionNewsIntent Sagen fashion news
+FashionNewsIntent Mode Nachrichten
+FashionNewsIntent fashion news
+
+ReadArticleIntent Lies bitte den Artikel
+ReadArticleIntent Könntest du bitte den Artikel lesen
+ReadArticleIntent Lies bitte den Blog
+ReadArticleIntent Lesen Sie den Artikel
+ReadArticleIntent Lies den Artikel
+ReadArticleIntent Artikel lesen
+ReadArticleIntent Lesen Sie den Blog
+ReadArticleIntent Blog lesen
+
+WhereToBuyIntent Wo kann ich {Tag} kaufen
+WhereToBuyIntent Wo kann ich {Tag}
+WhereToBuyIntent Wo kann ich {Tag} in der Nähe kaufen
+WhereToBuyIntent Wo kann ich kaufen {Tag} in der Nähe

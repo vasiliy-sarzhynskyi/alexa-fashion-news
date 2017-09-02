@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "WhatsNewIntent"
+    },
+    {
+      "intent": "FashionNewsIntent"
+    },
+    {
+      "intent": "ReadArticleIntent"
+    },
+    {
+      "intent": "WhereToBuyIntent",
+      "slots": [
+        {
+          "name": "Tag",
+          "type": "LIST_OF_TAGS"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}
